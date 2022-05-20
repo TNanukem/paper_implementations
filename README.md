@@ -1,4 +1,4 @@
-# paper_implementations
+# Paper Implementations
 This repository holds my paper or techniques implementations made for my studies and my content production. The main idea is that, when I am studying a subject, the best way of consolidating the knowledge is to implement and then explain it to others. Following that, these notebooks hold my implementations and are the basis for my Medium posts.
 
 You can find my posts [here](https://medium.com/@tiagotoledojr).
