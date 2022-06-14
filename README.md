@@ -17,6 +17,7 @@ This repository holds the following implementations:
 ## Complex Networks and Graph Theory
 
 - [Incomplete Networks Analysis](https://github.com/TNanukem/paper_implementations/blob/main/Incomplete%20Networks%20Analysis.ipynb)
+- [Weisfeiler Lehman Isomorphism Test](https://github.com/TNanukem/paper_implementations/blob/main/Weisfeiler%20Lehman%20Isomorphism%20Test.ipynb)
 
 ## Dimensionality Reduction
 
